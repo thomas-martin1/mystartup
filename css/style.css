@@ -1,0 +1,45 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+body {  
+	color: black;
+	font-family: 'Lusitana', serif;
+	font-size: 20px;
+	margin:  0px;
+
+}
+
+
+h1,h2,h3 {
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	font-weight: bold;
+}
+
+h1 {
+	color: #2D31FA;
+}
+a {
+	text-decoration: none;
+	color: blue;
+	font-weight: 600;
+	font-size: 20px;
+	transition: color 0.3s ease;
+}
+
+a:hover {
+	color: black;
+}
+
+
+
+
+
+
+
